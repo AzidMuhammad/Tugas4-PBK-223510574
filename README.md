@@ -1,4 +1,4 @@
-# Vue Component Communication Example
+# Vue Nested Components Example
 
 ## Project Structure
 

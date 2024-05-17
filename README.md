@@ -1,7 +1,5 @@
 # Vue Component Communication Example
 
-This project demonstrates communication between parent, child, and grandchild components in a Vue.js application. It includes modal functionality to display child and grandchild components.
-
 ## Project Structure
 
 - `App.vue`: The root component that contains the `ParentComponent`.
@@ -20,8 +18,8 @@ This project demonstrates communication between parent, child, and grandchild co
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/vue-component-communication.git
-    cd vue-component-communication
+    git clone https://github.com/AzidMuhammad/Tugas4-PBK-223510574.git
+    cd Tugas4-PBK-223510574
     ```
 
 2. Install the dependencies:
@@ -31,7 +29,7 @@ This project demonstrates communication between parent, child, and grandchild co
 
 3. Start the development server:
     ```bash
-    npm run serve
+    npm run dev
     ```
 
 ## Usage
